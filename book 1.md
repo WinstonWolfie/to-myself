@@ -19,3 +19,11 @@ Your nature entails eating and drinking, but only in what's enough. So if you lo
 Inspiration: [Med. 5.1](https://readaurelius.org/passage/5/1):
 
 > οὐ γὰρ φιλεῖς σεαυτόν, ἐπεί τοι καὶ τὴν φύσιν ἄν σου καὶ τὸ βούλημα ταύτης ἐφίλεις.
+
+# 2026-11-26
+
+The only thing worth fearing is fear itself.
+
+"I have fear. It has a start and an end." That's a fact.
+
+"I have fear. It's bad." That's an opinion.
