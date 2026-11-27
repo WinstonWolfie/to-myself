@@ -4,7 +4,7 @@ I am here to do the work of a human being. Health itself isn't good nor bad, but
 
 # 2026-11-23
 
-Everything happening around the world right now, isn't something you haven't seen before. Technological advancements? We have wheels, gunpowders, and everything from the industrial revolution. Bad economic times? There is always some place that the locals lament the economy. Financial security is at risk? What about war times, inflation times, natural disasters? Remind yourself that the thing stresses you happened uncountable times before, and you will laugh at yourself being stressful about it.
+Everything happening around the world right now, isn't something you haven't seen before. Technological advancements? We have wheels, gunpowders, and everything from the industrial revolution. Bad economic times? There is always some place that the locals lament the economy. Financial security is at risk? What about war times, inflation times, natural disasters? Remind yourself that the thing stresses you happened countless times before, and you will [[laugh at impressions|laugh at yourself]] being stressful about it. Better yet, take action. If you don't want to repeat history, learn history.
 
 # 2026-11-24
 
@@ -16,9 +16,9 @@ Inspiration: [Méditation cosmique guidée par Thich Nhat Hanh](https://www.yout
 
 Your nature entails eating and drinking, but only in what's enough. So if you love yourself, love your nature as well.
 
-Inspiration: [Med. 5.1](https://readaurelius.org/passage/5/1):
+Inspiration:
 
-> οὐ γὰρ φιλεῖς σεαυτόν, ἐπεί τοι καὶ τὴν φύσιν ἄν σου καὶ τὸ βούλημα ταύτης ἐφίλεις.
+> οὐ γὰρ φιλεῖς σεαυτόν, ἐπεί τοι καὶ τὴν φύσιν ἄν σου καὶ τὸ βούλημα ταύτης ἐφίλεις. — [Meditations, 5.1](https://readaurelius.org/passage/5/1)
 
 # 2026-11-26
 
@@ -27,3 +27,11 @@ The only thing worth fearing is fear itself.
 "I have fear. It has a start and an end." That's a fact.
 
 "I have fear. It's bad." That's an opinion.
+
+# 2026-11-27
+
+You know what your duties are. Take a step back, and will [[laugh at impressions|laugh at yourself]] for delaying them.
+
+Think about what Marcus said:
+
+> τί τοῦ ἔργου τὸ ἀφόρητον καὶ ἀνύποιστον; αἰσχυνθήσῃ γὰρ ὁμολογῆσαι. — [Meditations, 8.36](https://readaurelius.org/passage/8/36)
